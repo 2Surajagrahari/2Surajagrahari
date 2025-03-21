@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/pinterestdownloader.com-1739268366.629449.gif"><img width="400" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/pinterestdownloader.com-1739268366.629449.gif"  title="Namaste" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
+  <a href="https://github.com/2Surajagrahari/2Surajagrahari/blob/main/Assets/Csk%20Ka%20Whistle%20Podu%20Csk%20GIF%20%E2%80%93%20Csk%20Ka%20Whistle%20Podu%20Csk%20Dhoni%20%E2%80%93%20discover%20and%20share%20GIFs.gif"><img width="400" src="https://github.com/2Surajagrahari/2Surajagrahari/blob/main/Assets/Csk%20Ka%20Whistle%20Podu%20Csk%20GIF%20%E2%80%93%20Csk%20Ka%20Whistle%20Podu%20Csk%20Dhoni%20%E2%80%93%20discover%20and%20share%20GIFs.gif"  title="Namaste" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
 </p>
 <h4 align="center">Hello there! Suraj Agrahari and welcome to my GitHub. I’m a full-stack web developer exploring the world of web, cloud tech, and open source. These days, I’m diving into Python and machine learning, aiming to strike the perfect balance in my learning journey.</h4>
 <br />
 <p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/yatishydv/" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/yatishydv/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://github.com/Yatishydv" title="Be my Patron"><img width="32" src="https://mgks.dev/assets/icons/ic-heart.png"></a><br />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!;Yatish+Full+Stack+developer !; check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!;Suraj+Full+Stack+developer !; check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yatishydv&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
