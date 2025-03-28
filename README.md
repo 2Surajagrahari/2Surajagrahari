@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/2Surajagrahari/2Surajagrahari/blob/main/Assets/Csk%20Ka%20Whistle%20Podu%20Csk%20GIF%20%E2%80%93%20Csk%20Ka%20Whistle%20Podu%20Csk%20Dhoni%20%E2%80%93%20discover%20and%20share%20GIFs.gif"><img width="400" src="https://github.com/2Surajagrahari/2Surajagrahari/blob/main/Assets/Csk%20Ka%20Whistle%20Podu%20Csk%20GIF%20%E2%80%93%20Csk%20Ka%20Whistle%20Podu%20Csk%20Dhoni%20%E2%80%93%20discover%20and%20share%20GIFs.gif"  title="Namaste" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
+  <a href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  title="Namaste" ref="https://www.instagram.com/surajagr_01/"></a>
 </p>
 <h4 align="center">Hello there! Suraj Agrahari and welcome to my GitHub. I’m a full-stack web developer exploring the world of web, cloud tech, and open source. These days, I’m diving into Python and machine learning, aiming to strike the perfect balance in my learning journey.</h4>
 <br />
